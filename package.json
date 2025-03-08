@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.2.1",
+    "@ai-sdk/react": "^1.1.21",
     "@nanostores/react": "github:ai/react",
     "ai": "^4.1.54",
     "next": "latest",
